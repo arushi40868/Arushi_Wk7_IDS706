@@ -161,5 +161,5 @@ This project demonstrates:
 ---
 
 **Author:** Arushi Singh  
-**Course:** IDS-706 - Data Science Foundations  
+**Course:** IDS-706 
 **Institution:** Duke University
