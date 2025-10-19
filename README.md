@@ -38,6 +38,7 @@ Please download and open it in **DBeaver** before running the queries below.
 📦 **Download here:**  
 🔗 [Apple_Sales.db (OneDrive link)](https://prodduke-my.sharepoint.com/:u:/r/personal/as1685_duke_edu/Documents/IDS-706/Apple_Sales.db?csf=1&web=1&e=m15dEM)
 
+*The Sales CSV file was also too large so it has been zipped. (35 MB)
 ---
 
 ## 🧩 Schema Overview
