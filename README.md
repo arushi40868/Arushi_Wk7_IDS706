@@ -30,19 +30,19 @@ Arushi_Wk7_IDS706/
 
 ---
 
-## 🗂️ Database Access
+##  Database Access
 
 Due to GitHub’s 25 MB file limit, the full SQLite database is hosted on OneDrive.  
 Please download and open it in **DBeaver** before running the queries below.
 The Sales CSV file was also too large so it has been zipped. (35 MB)
 
-📦 **Download here:**  
+ **Download here:**  
 🔗 [Apple_Sales.db (OneDrive link)](https://prodduke-my.sharepoint.com/:u:/r/personal/as1685_duke_edu/Documents/IDS-706/Apple_Sales.db?csf=1&web=1&e=m15dEM)
 
 
 ---
 
-## 🧩 Schema Overview
+##  Schema Overview
 
 The database contains the following key tables:
 
@@ -57,7 +57,7 @@ The database contains the following key tables:
 
 ---
 
-## 🧠 Basic Analysis Queries
+##  Basic Analysis Queries
 
 ### 1. **Select Query**
 **File:** `select_query.sql`  
@@ -82,7 +82,7 @@ The database contains the following key tables:
 
 ---
 
-## ⚙️ Advanced SQL Features
+##  Advanced SQL Features
 
 ### 4. **Window Function Query**
 **File:** `window_function.sql`  
@@ -124,7 +124,7 @@ The database contains the following key tables:
 
 ---
 
-## 🧩 Additional SQL Features Explored Independently
+##  Additional SQL Features Explored Independently
 
 ### 9. **COALESCE Function**
 **Purpose:** Handle missing or NULL values in price calculations.  
@@ -137,7 +137,7 @@ The database contains the following key tables:
 
 ---
 
-## 📊 Example Output (Expected Visual Insights)
+##  Example Output (Expected Visual Insights)
 
 | Product_Name | Units_Sold | Revenue |
 |---------------|-------------|----------|
@@ -145,11 +145,11 @@ The database contains the following key tables:
 | MacBook Pro 14-inch | 930 | $1.3M |
 | iPad Pro | 850 | $1.1M |
 
-*(sample output — values for illustration)*
+*(sample output - values for illustration)*
 
 ---
 
-## 🧾 Summary
+##  Summary
 
 This project demonstrates:
 - Complete SQL workflow from creation to transformation
@@ -161,5 +161,5 @@ This project demonstrates:
 ---
 
 **Author:** Arushi Singh  
-**Course:** IDS-706 — Data Science Foundations  
+**Course:** IDS-706 - Data Science Foundations  
 **Institution:** Duke University
