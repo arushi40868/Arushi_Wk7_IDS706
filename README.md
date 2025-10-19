@@ -1,11 +1,11 @@
-# 🧠 IDS-706 Week 7 SQL Project — *Apple Sales Analysis*
+#  IDS-706 Week 7 SQL Project — *Apple Sales Analysis*
 
 This project explores SQL concepts using a simulated **Apple Sales** dataset.  
 The goal was to demonstrate proficiency with table creation, data cleaning, joins, aggregation, window functions, and transformations using **SQLite** and **DBeaver**.
 
 ---
 
-## 📁 Repository Structure
+##  Repository Structure
 
 ```
 Arushi_Wk7_IDS706/
