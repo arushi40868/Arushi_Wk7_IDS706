@@ -1,0 +1,3 @@
+--DELETE FROM sales
+--WHERE strftime('%Y', "sale_date_iso") = '2021';
+--VACUUM;
