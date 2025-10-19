@@ -34,11 +34,12 @@ Arushi_Wk7_IDS706/
 
 Due to GitHub’s 25 MB file limit, the full SQLite database is hosted on OneDrive.  
 Please download and open it in **DBeaver** before running the queries below.
+The Sales CSV file was also too large so it has been zipped. (35 MB)
 
 📦 **Download here:**  
 🔗 [Apple_Sales.db (OneDrive link)](https://prodduke-my.sharepoint.com/:u:/r/personal/as1685_duke_edu/Documents/IDS-706/Apple_Sales.db?csf=1&web=1&e=m15dEM)
 
-*The Sales CSV file was also too large so it has been zipped. (35 MB)
+
 ---
 
 ## 🧩 Schema Overview
